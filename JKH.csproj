@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>JKH</RootNamespace>
+    <AssemblyName>JKH</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CurrentUser.cs" />
+    <Compile Include="DatabaseConnection.cs" />
+    <Compile Include="FormApartments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormApartments.Designer.cs">
+      <DependentUpon>FormApartments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBidAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBidAdmin.Designer.cs">
+      <DependentUpon>FormBidAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBidHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBidHistory.Designer.cs">
+      <DependentUpon>FormBidHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCreateNews.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCreateNews.Designer.cs">
+      <DependentUpon>FormCreateNews.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMainAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMainAdmin.Designer.cs">
+      <DependentUpon>FormMainAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMainUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMainUser.Designer.cs">
+      <DependentUpon>FormMainUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMyProfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMyProfil.Designer.cs">
+      <DependentUpon>FormMyProfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNewsAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNewsAdmin.Designer.cs">
+      <DependentUpon>FormNewsAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNewsUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNewsUser.Designer.cs">
+      <DependentUpon>FormNewsUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProfileAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProfileAdmin.Designer.cs">
+      <DependentUpon>FormProfileAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReceipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReceipt.Designer.cs">
+      <DependentUpon>FormReceipt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSendBid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSendBid.Designer.cs">
+      <DependentUpon>FormSendBid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JKHDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>JKHDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormApartments.resx">
+      <DependentUpon>FormApartments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBidAdmin.resx">
+      <DependentUpon>FormBidAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBidHistory.resx">
+      <DependentUpon>FormBidHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCreateNews.resx">
+      <DependentUpon>FormCreateNews.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMainAdmin.resx">
+      <DependentUpon>FormMainAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMainUser.resx">
+      <DependentUpon>FormMainUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMyProfil.resx">
+      <DependentUpon>FormMyProfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNewsAdmin.resx">
+      <DependentUpon>FormNewsAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNewsUser.resx">
+      <DependentUpon>FormNewsUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProfileAdmin.resx">
+      <DependentUpon>FormProfileAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReceipt.resx">
+      <DependentUpon>FormReceipt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSendBid.resx">
+      <DependentUpon>FormSendBid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePage.resx">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="JKHDataSet.xsc">
+      <DependentUpon>JKHDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="JKHDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>JKHDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="JKHDataSet.xss">
+      <DependentUpon>JKHDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

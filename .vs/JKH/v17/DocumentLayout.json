@@ -1,0 +1,735 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|c:\\\u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043B\u0438\u043D\u0430\\\u0442\u0438\u043F\u0438\u0441\\jkh\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formsendbid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formsendbid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formprofileadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formprofileadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formnewsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formnewsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formnewsadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formnewsadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formmyprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formmyprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formmainuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formmainuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formmainadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formmainadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formcreatenews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formcreatenews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formbidhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formbidhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formbidadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formbidadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formapartments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formapartments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formbidadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formbidadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formmainadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formmainadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formnewsadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formnewsadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formnewsadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formnewsadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formbidadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formbidadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formprofileadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formprofileadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formprofileadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formprofileadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formnewsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formnewsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formmainuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formmainuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formbidadmin.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formbidadmin.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formcreatenews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formcreatenews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formcreatenews.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formcreatenews.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formmyprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formmyprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formnewsuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formnewsuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formbidhistory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formbidhistory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formreceipt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formreceipt.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formsendbid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formsendbid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formbidhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formbidhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formapartments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formapartments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formapartments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formapartments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formsendbid.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formsendbid.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\formmainuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:formmainuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 44,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormBidHistory.Designer.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormBidHistory.Designer.cs",
+              "RelativeDocumentMoniker": "FormBidHistory.Designer.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormBidHistory.Designer.cs",
+              "RelativeToolTip": "FormBidHistory.Designer.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:26:16.837Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormBidAdmin.Designer.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormBidAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "FormBidAdmin.Designer.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormBidAdmin.Designer.cs",
+              "RelativeToolTip": "FormBidAdmin.Designer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:23:24.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormBidAdmin.resx",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormBidAdmin.resx",
+              "RelativeDocumentMoniker": "FormBidAdmin.resx",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormBidAdmin.resx",
+              "RelativeToolTip": "FormBidAdmin.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-30T16:57:08.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormNewsAdmin.Designer.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormNewsAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "FormNewsAdmin.Designer.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormNewsAdmin.Designer.cs",
+              "RelativeToolTip": "FormNewsAdmin.Designer.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAuwCwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T16:50:25.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormNewsAdmin.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormNewsAdmin.cs",
+              "RelativeDocumentMoniker": "FormNewsAdmin.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormNewsAdmin.cs",
+              "RelativeToolTip": "FormNewsAdmin.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAAAKkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T16:49:53.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormNewsAdmin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormNewsAdmin.cs",
+              "RelativeDocumentMoniker": "FormNewsAdmin.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormNewsAdmin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormNewsAdmin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T15:15:25.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormBidAdmin.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormBidAdmin.cs",
+              "RelativeDocumentMoniker": "FormBidAdmin.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormBidAdmin.cs",
+              "RelativeToolTip": "FormBidAdmin.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAuwGwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:50:30.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormBidAdmin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormBidAdmin.cs",
+              "RelativeDocumentMoniker": "FormBidAdmin.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormBidAdmin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormBidAdmin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:43:31.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormProfileAdmin.Designer.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormProfileAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "FormProfileAdmin.Designer.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormProfileAdmin.Designer.cs",
+              "RelativeToolTip": "FormProfileAdmin.Designer.cs",
+              "ViewState": "AQIAADwBAAAAAAAAAAA0wF0BAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:25:30.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormProfileAdmin.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormProfileAdmin.cs",
+              "RelativeDocumentMoniker": "FormProfileAdmin.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormProfileAdmin.cs",
+              "RelativeToolTip": "FormProfileAdmin.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAiwF8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:25:08.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormProfileAdmin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormProfileAdmin.cs",
+              "RelativeDocumentMoniker": "FormProfileAdmin.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormProfileAdmin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormProfileAdmin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:20:32.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormCreateNews.Designer.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormCreateNews.Designer.cs",
+              "RelativeDocumentMoniker": "FormCreateNews.Designer.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormCreateNews.Designer.cs",
+              "RelativeToolTip": "FormCreateNews.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:55:24.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormCreateNews.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormCreateNews.cs",
+              "RelativeDocumentMoniker": "FormCreateNews.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormCreateNews.cs",
+              "RelativeToolTip": "FormCreateNews.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:54:59.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormCreateNews.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormCreateNews.cs",
+              "RelativeDocumentMoniker": "FormCreateNews.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormCreateNews.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormCreateNews.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:48:21.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormNewsUser.Designer.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormNewsUser.Designer.cs",
+              "RelativeDocumentMoniker": "FormNewsUser.Designer.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormNewsUser.Designer.cs",
+              "RelativeToolTip": "FormNewsUser.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:16:31.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormNewsUser.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormNewsUser.cs",
+              "RelativeDocumentMoniker": "FormNewsUser.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormNewsUser.cs",
+              "RelativeToolTip": "FormNewsUser.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAywDkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:16:04.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormNewsUser.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormNewsUser.cs",
+              "RelativeDocumentMoniker": "FormNewsUser.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormNewsUser.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormNewsUser.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:12:54.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormReceipt.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormReceipt.cs",
+              "RelativeDocumentMoniker": "FormReceipt.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormReceipt.cs",
+              "RelativeToolTip": "FormReceipt.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA1wG8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:20:18.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormReceipt.Designer.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormReceipt.Designer.cs",
+              "RelativeDocumentMoniker": "FormReceipt.Designer.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormReceipt.Designer.cs",
+              "RelativeToolTip": "FormReceipt.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:19:28.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormReceipt.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormReceipt.cs",
+              "RelativeDocumentMoniker": "FormReceipt.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormReceipt.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormReceipt.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:57:40.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FormApartments.Designer.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormApartments.Designer.cs",
+              "RelativeDocumentMoniker": "FormApartments.Designer.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormApartments.Designer.cs",
+              "RelativeToolTip": "FormApartments.Designer.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:43:54.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormApartments.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormApartments.cs",
+              "RelativeDocumentMoniker": "FormApartments.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormApartments.cs",
+              "RelativeToolTip": "FormApartments.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAiwGkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:43:22.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormApartments.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormApartments.cs",
+              "RelativeDocumentMoniker": "FormApartments.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormApartments.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormApartments.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:39:34.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FormBidHistory.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormBidHistory.cs",
+              "RelativeDocumentMoniker": "FormBidHistory.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormBidHistory.cs",
+              "RelativeToolTip": "FormBidHistory.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAiwGcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:35:45.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormBidHistory.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormBidHistory.cs",
+              "RelativeDocumentMoniker": "FormBidHistory.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormBidHistory.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormBidHistory.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:35:13.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormMyProfil.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormMyProfil.cs",
+              "RelativeDocumentMoniker": "FormMyProfil.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormMyProfil.cs",
+              "RelativeToolTip": "FormMyProfil.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAAAIkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:15:54.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMyProfil.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormMyProfil.cs",
+              "RelativeDocumentMoniker": "FormMyProfil.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormMyProfil.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormMyProfil.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:43:02.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FormSendBid.Designer.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormSendBid.Designer.cs",
+              "RelativeDocumentMoniker": "FormSendBid.Designer.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormSendBid.Designer.cs",
+              "RelativeToolTip": "FormSendBid.Designer.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAA2wIQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T08:46:30.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FormMainUser.Designer.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormMainUser.Designer.cs",
+              "RelativeDocumentMoniker": "FormMainUser.Designer.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormMainUser.Designer.cs",
+              "RelativeToolTip": "FormMainUser.Designer.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAlwKwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T08:28:47.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FormLogin.Designer.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormLogin.Designer.cs",
+              "RelativeDocumentMoniker": "FormLogin.Designer.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormLogin.Designer.cs",
+              "RelativeToolTip": "FormLogin.Designer.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAgwJIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T08:24:23.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormMainUser.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormMainUser.cs",
+              "RelativeDocumentMoniker": "FormMainUser.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormMainUser.cs",
+              "RelativeToolTip": "FormMainUser.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAuwDkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T08:14:25.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T08:12:35.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "CurrentUser.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\CurrentUser.cs",
+              "RelativeToolTip": "CurrentUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T06:52:48.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FormSendBid.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormSendBid.cs",
+              "RelativeDocumentMoniker": "FormSendBid.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormSendBid.cs",
+              "RelativeToolTip": "FormSendBid.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAiwIAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T06:45:58.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormSendBid.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormSendBid.cs",
+              "RelativeDocumentMoniker": "FormSendBid.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormSendBid.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormSendBid.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:35:10.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "DatabaseConnection.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\DatabaseConnection.cs",
+              "RelativeToolTip": "DatabaseConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T06:29:18.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-30T06:19:06.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormMainAdmin.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormMainAdmin.cs",
+              "RelativeDocumentMoniker": "FormMainAdmin.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormMainAdmin.cs",
+              "RelativeToolTip": "FormMainAdmin.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAEIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:37:45.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormLogin.cs",
+              "RelativeDocumentMoniker": "FormLogin.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormLogin.cs",
+              "RelativeToolTip": "FormLogin.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAowHsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T07:27:01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormLogin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormLogin.cs",
+              "RelativeDocumentMoniker": "FormLogin.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormLogin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormLogin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T07:24:06.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\HomePage.cs",
+              "RelativeDocumentMoniker": "HomePage.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\HomePage.cs",
+              "RelativeToolTip": "HomePage.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowDAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T07:03:46.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\HomePage.cs",
+              "RelativeDocumentMoniker": "HomePage.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\HomePage.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "HomePage.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T07:00:55.744Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormMainUser.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormMainUser.cs",
+              "RelativeDocumentMoniker": "FormMainUser.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormMainUser.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormMainUser.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T05:56:32.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormMainAdmin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormMainAdmin.cs",
+              "RelativeDocumentMoniker": "FormMainAdmin.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormMainAdmin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormMainAdmin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:34:42.162Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 863,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
