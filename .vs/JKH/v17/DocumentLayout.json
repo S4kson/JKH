@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|c:\\\u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043B\u0438\u043D\u0430\\\u0442\u0438\u043F\u0438\u0441\\jkh\\jkhdataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:jkhdataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|c:\\\u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043B\u0438\u043D\u0430\\\u0442\u0438\u043F\u0438\u0441\\jkh\\jkhdataset.xsc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:jkhdataset.xsc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|c:\\\u043F\u0430\u043F\u043A\u0430\\\u043F\u043E\u043B\u0438\u043D\u0430\\\u0442\u0438\u043F\u0438\u0441\\jkh\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D4E34E91-70E7-4200-AD39-1CC86CEFFA13}|JKH.csproj|solutionrelative:homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -186,11 +194,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 44,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "FormBidHistory.Designer.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormBidHistory.Designer.cs",
               "RelativeDocumentMoniker": "FormBidHistory.Designer.cs",
@@ -200,6 +208,32 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T10:26:16.837Z",
               "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JKHDataSet.Designer.cs",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\JKHDataSet.Designer.cs",
+              "RelativeDocumentMoniker": "JKHDataSet.Designer.cs",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\JKHDataSet.Designer.cs",
+              "RelativeToolTip": "JKHDataSet.Designer.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwBgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:31:44.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JKHDataSet.xsc",
+              "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\JKHDataSet.xsc",
+              "RelativeDocumentMoniker": "JKHDataSet.xsc",
+              "ToolTip": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\JKHDataSet.xsc",
+              "RelativeToolTip": "JKHDataSet.xsc",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2025-07-02T04:31:27.574Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -215,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "FormBidAdmin.Designer.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormBidAdmin.Designer.cs",
               "RelativeDocumentMoniker": "FormBidAdmin.Designer.cs",
@@ -227,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "FormBidAdmin.resx",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormBidAdmin.resx",
               "RelativeDocumentMoniker": "FormBidAdmin.resx",
@@ -238,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "FormNewsAdmin.Designer.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormNewsAdmin.Designer.cs",
               "RelativeDocumentMoniker": "FormNewsAdmin.Designer.cs",
@@ -250,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "FormNewsAdmin.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormNewsAdmin.cs",
               "RelativeDocumentMoniker": "FormNewsAdmin.cs",
@@ -262,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "FormNewsAdmin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormNewsAdmin.cs",
               "RelativeDocumentMoniker": "FormNewsAdmin.cs",
@@ -273,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "FormBidAdmin.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormBidAdmin.cs",
               "RelativeDocumentMoniker": "FormBidAdmin.cs",
@@ -285,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "FormBidAdmin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormBidAdmin.cs",
               "RelativeDocumentMoniker": "FormBidAdmin.cs",
@@ -296,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "FormProfileAdmin.Designer.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormProfileAdmin.Designer.cs",
               "RelativeDocumentMoniker": "FormProfileAdmin.Designer.cs",
@@ -308,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "FormProfileAdmin.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormProfileAdmin.cs",
               "RelativeDocumentMoniker": "FormProfileAdmin.cs",
@@ -320,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "FormProfileAdmin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormProfileAdmin.cs",
               "RelativeDocumentMoniker": "FormProfileAdmin.cs",
@@ -331,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "FormCreateNews.Designer.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormCreateNews.Designer.cs",
               "RelativeDocumentMoniker": "FormCreateNews.Designer.cs",
@@ -343,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "FormCreateNews.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormCreateNews.cs",
               "RelativeDocumentMoniker": "FormCreateNews.cs",
@@ -355,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "FormCreateNews.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormCreateNews.cs",
               "RelativeDocumentMoniker": "FormCreateNews.cs",
@@ -366,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "FormNewsUser.Designer.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormNewsUser.Designer.cs",
               "RelativeDocumentMoniker": "FormNewsUser.Designer.cs",
@@ -378,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "FormNewsUser.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormNewsUser.cs",
               "RelativeDocumentMoniker": "FormNewsUser.cs",
@@ -390,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "FormNewsUser.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormNewsUser.cs",
               "RelativeDocumentMoniker": "FormNewsUser.cs",
@@ -401,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "FormReceipt.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormReceipt.cs",
               "RelativeDocumentMoniker": "FormReceipt.cs",
@@ -413,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "FormReceipt.Designer.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormReceipt.Designer.cs",
               "RelativeDocumentMoniker": "FormReceipt.Designer.cs",
@@ -425,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FormReceipt.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormReceipt.cs",
               "RelativeDocumentMoniker": "FormReceipt.cs",
@@ -436,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "FormApartments.Designer.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormApartments.Designer.cs",
               "RelativeDocumentMoniker": "FormApartments.Designer.cs",
@@ -448,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "FormApartments.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormApartments.cs",
               "RelativeDocumentMoniker": "FormApartments.cs",
@@ -460,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "FormApartments.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormApartments.cs",
               "RelativeDocumentMoniker": "FormApartments.cs",
@@ -471,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "FormBidHistory.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormBidHistory.cs",
               "RelativeDocumentMoniker": "FormBidHistory.cs",
@@ -483,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "FormBidHistory.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormBidHistory.cs",
               "RelativeDocumentMoniker": "FormBidHistory.cs",
@@ -494,7 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "FormMyProfil.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormMyProfil.cs",
               "RelativeDocumentMoniker": "FormMyProfil.cs",
@@ -506,7 +540,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "FormMyProfil.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormMyProfil.cs",
               "RelativeDocumentMoniker": "FormMyProfil.cs",
@@ -517,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "FormSendBid.Designer.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormSendBid.Designer.cs",
               "RelativeDocumentMoniker": "FormSendBid.Designer.cs",
@@ -529,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "FormMainUser.Designer.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormMainUser.Designer.cs",
               "RelativeDocumentMoniker": "FormMainUser.Designer.cs",
@@ -541,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "FormLogin.Designer.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormLogin.Designer.cs",
               "RelativeDocumentMoniker": "FormLogin.Designer.cs",
@@ -553,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "FormMainUser.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormMainUser.cs",
               "RelativeDocumentMoniker": "FormMainUser.cs",
@@ -565,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -577,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "CurrentUser.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\CurrentUser.cs",
               "RelativeDocumentMoniker": "CurrentUser.cs",
@@ -589,7 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "FormSendBid.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormSendBid.cs",
               "RelativeDocumentMoniker": "FormSendBid.cs",
@@ -601,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FormSendBid.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormSendBid.cs",
               "RelativeDocumentMoniker": "FormSendBid.cs",
@@ -612,7 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "DatabaseConnection.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\DatabaseConnection.cs",
               "RelativeDocumentMoniker": "DatabaseConnection.cs",
@@ -624,7 +658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "App.config",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\App.config",
               "RelativeDocumentMoniker": "App.config",
@@ -637,7 +671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "FormMainAdmin.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormMainAdmin.cs",
               "RelativeDocumentMoniker": "FormMainAdmin.cs",
@@ -649,7 +683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "FormLogin.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormLogin.cs",
               "RelativeDocumentMoniker": "FormLogin.cs",
@@ -661,7 +695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "FormLogin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormLogin.cs",
               "RelativeDocumentMoniker": "FormLogin.cs",
@@ -672,7 +706,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "HomePage.cs",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\HomePage.cs",
               "RelativeDocumentMoniker": "HomePage.cs",
@@ -685,7 +719,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "HomePage.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\HomePage.cs",
               "RelativeDocumentMoniker": "HomePage.cs",
@@ -697,7 +731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "FormMainUser.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormMainUser.cs",
               "RelativeDocumentMoniker": "FormMainUser.cs",
@@ -708,7 +742,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "FormMainAdmin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\\u041F\u0430\u043F\u043A\u0430\\\u041F\u043E\u043B\u0438\u043D\u0430\\\u0422\u0418\u041F\u0418\u0421\\JKH\\FormMainAdmin.cs",
               "RelativeDocumentMoniker": "FormMainAdmin.cs",
